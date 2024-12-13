@@ -25,11 +25,11 @@
 ## Установка
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/Trekhlebova/object_detection.git
    ```
 2. Перейдите в папку проекта:
    ```bash
-   cd <project>
+   cd object_detection
    ```
 3. Установите зависимости:
    ```bash
